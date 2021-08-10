@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode練習使用Java
+LeetCode練習，使用Java
