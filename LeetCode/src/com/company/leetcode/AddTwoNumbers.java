@@ -8,24 +8,6 @@ public class AddTwoNumbers {
         addTwoNumbers(new ListNode(), new ListNode());
     }
 
-    //    Definition for singly-linked list.
-    public static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode() {
-        }
-
-        ListNode(int val) {
-            this.val = val;
-        }
-
-        ListNode(int val, ListNode next) {
-            this.val = val;
-            this.next = next;
-        }
-    }
-
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode res = new ListNode();
         int a = 0;
@@ -50,6 +32,24 @@ public class AddTwoNumbers {
         }
 
         return res.next;
+    }
+
+    //    Definition for singly-linked list.
+    public static class ListNode {
+        int val;
+        ListNode next;
+
+        ListNode() {
+        }
+
+        ListNode(int val) {
+            this.val = val;
+        }
+
+        ListNode(int val, ListNode next) {
+            this.val = val;
+            this.next = next;
+        }
     }
 
 }

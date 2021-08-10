@@ -1,6 +1,6 @@
-package com.company.leetcode.todo;
+package com.company.codility;
 
-public class KthLargestElementInAnArray {
+public class BinaryGap {
 
     public static void main(String[] args) {
         // write your code here
@@ -8,9 +8,9 @@ public class KthLargestElementInAnArray {
 
     }
 
-    public int findKthLargest(int[] nums, int k) {
+    public int solution(int N) {
         //TODO:
-        return -1;
+        return 0;
     }
 
 }
