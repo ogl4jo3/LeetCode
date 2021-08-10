@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eaa49fd-046d-4832-b792-abe6c2c272ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/Combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/GenerateParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/todo/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/todo/KthLargestElementInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/todo/PermutationsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/todo/RegularExpressionMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/todo/RemoveInvalidParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/leetcode/todo/PermutationsII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/leetcode/todo/PermutationsII.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
