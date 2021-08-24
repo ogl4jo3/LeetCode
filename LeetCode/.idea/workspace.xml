@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eaa49fd-046d-4832-b792-abe6c2c272ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/MaximumSubarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +107,7 @@
       <recent name="com.company.kkstreamcodility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PermutationsII">
+  <component name="RunManager" selected="Application.MaximumSubarray">
     <configuration name="KthLargestElementInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.leetcode.KthLargestElementInAnArray" />
       <module name="LeetCode" />
@@ -121,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.PermutationsII" />
+    <configuration name="MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.MaximumSubarray" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.ReverseString" />
+    <configuration name="PermutationsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.PermutationsII" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -174,19 +174,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReverseString" />
       <item itemvalue="Application.SingleElementInASortedArray" />
       <item itemvalue="Application.TwoSum" />
       <item itemvalue="Application.KthLargestElementInAnArray" />
       <item itemvalue="Application.PermutationsII" />
+      <item itemvalue="Application.MaximumSubarray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumSubarray" />
         <item itemvalue="Application.PermutationsII" />
         <item itemvalue="Application.KthLargestElementInAnArray" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.SingleElementInASortedArray" />
-        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
