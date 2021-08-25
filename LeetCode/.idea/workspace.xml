@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eaa49fd-046d-4832-b792-abe6c2c272ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/todo/MergeIntervals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2eaa49fd-046d-4832-b792-abe6c2c272ad" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,13 +98,13 @@
       <recent name="F:\GitHub\LeetCode\LeetCode\src\com\company\leetcode" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.company.leetcode.todo" />
       <recent name="com.company.leetcode" />
+      <recent name="com.company.leetcode.todo" />
       <recent name="com.company.codility" />
       <recent name="com.company.kkstreamcodility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeIntervals">
+  <component name="RunManager" selected="Application.TopKFrequentElements">
     <configuration name="KthLargestElementInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.leetcode.KthLargestElementInAnArray" />
       <module name="LeetCode" />
@@ -121,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.todo.MergeIntervals" />
+    <configuration name="MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.MaximumSubarray" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.leetcode.todo.*" />
+          <option name="PATTERN" value="com.company.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleElementInASortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.SingleElementInASortedArray" />
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.ReverseLinkedList" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -160,8 +157,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.TwoSum" />
+    <configuration name="TopKFrequentElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.TopKFrequentElements" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -174,19 +171,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SingleElementInASortedArray" />
-      <item itemvalue="Application.TwoSum" />
       <item itemvalue="Application.KthLargestElementInAnArray" />
       <item itemvalue="Application.PermutationsII" />
-      <item itemvalue="Application.MergeIntervals" />
+      <item itemvalue="Application.MaximumSubarray" />
+      <item itemvalue="Application.ReverseLinkedList" />
+      <item itemvalue="Application.TopKFrequentElements" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergeIntervals" />
+        <item itemvalue="Application.TopKFrequentElements" />
+        <item itemvalue="Application.ReverseLinkedList" />
+        <item itemvalue="Application.MaximumSubarray" />
         <item itemvalue="Application.PermutationsII" />
         <item itemvalue="Application.KthLargestElementInAnArray" />
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.SingleElementInASortedArray" />
       </list>
     </recent_temporary>
   </component>
