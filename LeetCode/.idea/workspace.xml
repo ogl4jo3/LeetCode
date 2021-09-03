@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eaa49fd-046d-4832-b792-abe6c2c272ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/CoinChange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +108,7 @@
       <recent name="com.company.kkstreamcodility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClimbingStairs">
+  <component name="RunManager" selected="Application.CoinChange">
     <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.leetcode.ClimbingStairs" />
       <module name="LeetCode" />
@@ -122,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.todo.MergeIntervals" />
+    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.CoinChange" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.leetcode.todo.*" />
+          <option name="PATTERN" value="com.company.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,19 +175,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MergeIntervals" />
       <item itemvalue="Application.ValidPalindrome" />
       <item itemvalue="Application.TestA" />
       <item itemvalue="Application.TestB" />
       <item itemvalue="Application.ClimbingStairs" />
+      <item itemvalue="Application.CoinChange" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoinChange" />
         <item itemvalue="Application.ClimbingStairs" />
         <item itemvalue="Application.TestB" />
         <item itemvalue="Application.TestA" />
         <item itemvalue="Application.ValidPalindrome" />
-        <item itemvalue="Application.MergeIntervals" />
       </list>
     </recent_temporary>
   </component>
