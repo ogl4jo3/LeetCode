@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eaa49fd-046d-4832-b792-abe6c2c272ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/CoinChange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/leetcode/BinaryTreeRightSideView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/leetcode/BinaryTreeRightSideView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
