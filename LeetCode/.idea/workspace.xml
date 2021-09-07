@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eaa49fd-046d-4832-b792-abe6c2c272ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2eaa49fd-046d-4832-b792-abe6c2c272ad" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +105,7 @@
       <recent name="com.company.kkstreamcodility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreeSum">
+  <component name="RunManager" selected="Application.ContainsDuplicate">
     <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.leetcode.ClimbingStairs" />
       <module name="LeetCode" />
@@ -135,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.amazonring.TestA" />
+    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.ContainsDuplicate" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.amazonring.*" />
+          <option name="PATTERN" value="com.company.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,19 +172,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestA" />
       <item itemvalue="Application.TestB" />
       <item itemvalue="Application.ClimbingStairs" />
       <item itemvalue="Application.CoinChange" />
       <item itemvalue="Application.ThreeSum" />
+      <item itemvalue="Application.ContainsDuplicate" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContainsDuplicate" />
         <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.CoinChange" />
         <item itemvalue="Application.ClimbingStairs" />
         <item itemvalue="Application.TestB" />
-        <item itemvalue="Application.TestA" />
       </list>
     </recent_temporary>
   </component>
