@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eaa49fd-046d-4832-b792-abe6c2c272ad" name="Changes" comment="" />
+    <list default="true" id="2eaa49fd-046d-4832-b792-abe6c2c272ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/MissingNumber.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +107,7 @@
       <recent name="com.company.kkstreamcodility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContainsDuplicate">
+  <component name="RunManager" selected="Application.MissingNumber">
     <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.leetcode.ClimbingStairs" />
       <module name="LeetCode" />
@@ -145,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.amazonring.TestB" />
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.MissingNumber" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.amazonring.*" />
+          <option name="PATTERN" value="com.company.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,19 +174,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestB" />
       <item itemvalue="Application.ClimbingStairs" />
       <item itemvalue="Application.CoinChange" />
       <item itemvalue="Application.ThreeSum" />
       <item itemvalue="Application.ContainsDuplicate" />
+      <item itemvalue="Application.MissingNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MissingNumber" />
         <item itemvalue="Application.ContainsDuplicate" />
         <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.CoinChange" />
         <item itemvalue="Application.ClimbingStairs" />
-        <item itemvalue="Application.TestB" />
       </list>
     </recent_temporary>
   </component>
