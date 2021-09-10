@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eaa49fd-046d-4832-b792-abe6c2c272ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/todo/InsertIntervals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/leetcode/todo/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/leetcode/todo/LRUCache.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,13 +108,13 @@
       <recent name="com.company.kkstreamcodility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LRUCacheTest">
-    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.CoinChange" />
+  <component name="RunManager" selected="Application.InsertIntervals">
+    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.ContainsDuplicate" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.leetcode.todo.*" />
+          <option name="PATTERN" value="com.company.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.ContainsDuplicate" />
+    <configuration name="InsertIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.todo.InsertIntervals" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.leetcode.*" />
+          <option name="PATTERN" value="com.company.leetcode.todo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,19 +175,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CoinChange" />
       <item itemvalue="Application.ThreeSum" />
       <item itemvalue="Application.ContainsDuplicate" />
       <item itemvalue="Application.MissingNumber" />
       <item itemvalue="Application.LRUCacheTest" />
+      <item itemvalue="Application.InsertIntervals" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertIntervals" />
         <item itemvalue="Application.LRUCacheTest" />
         <item itemvalue="Application.MissingNumber" />
         <item itemvalue="Application.ContainsDuplicate" />
         <item itemvalue="Application.ThreeSum" />
-        <item itemvalue="Application.CoinChange" />
       </list>
     </recent_temporary>
   </component>
