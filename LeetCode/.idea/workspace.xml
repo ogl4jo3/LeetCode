@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eaa49fd-046d-4832-b792-abe6c2c272ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/todo/InsertIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/BinaryTreeInorderTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,14 +101,27 @@
       <recent name="F:\GitHub\LeetCode\LeetCode\src\com\company\leetcode" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.company.leetcode.todo" />
       <recent name="com.company.leetcode" />
+      <recent name="com.company.leetcode.todo" />
       <recent name="com.company.amazonring" />
       <recent name="com.company.codility" />
       <recent name="com.company.kkstreamcodility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InsertIntervals">
+  <component name="RunManager" selected="Application.BinaryTreeInorderTraversal">
+    <configuration name="BinaryTreeInorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.BinaryTreeInorderTraversal" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.leetcode.ContainsDuplicate" />
       <module name="LeetCode" />
@@ -161,33 +174,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.ThreeSum" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.ThreeSum" />
       <item itemvalue="Application.ContainsDuplicate" />
       <item itemvalue="Application.MissingNumber" />
       <item itemvalue="Application.LRUCacheTest" />
       <item itemvalue="Application.InsertIntervals" />
+      <item itemvalue="Application.BinaryTreeInorderTraversal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryTreeInorderTraversal" />
         <item itemvalue="Application.InsertIntervals" />
         <item itemvalue="Application.LRUCacheTest" />
         <item itemvalue="Application.MissingNumber" />
         <item itemvalue="Application.ContainsDuplicate" />
-        <item itemvalue="Application.ThreeSum" />
       </list>
     </recent_temporary>
   </component>
